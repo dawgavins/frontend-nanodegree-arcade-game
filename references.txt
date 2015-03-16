@@ -1,0 +1,5 @@
+https://github.com/simonsarris/Canvas-tutorials/blob/master/verticalText.js
+http://diveintohtml5.info/canvas.html#text
+http://www.arc.id.au/CanvasLayers.html
+http://www.ibm.com/developerworks/library/wa-canvashtml5layering/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
