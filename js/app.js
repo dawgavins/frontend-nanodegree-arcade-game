@@ -87,7 +87,7 @@ Enemy.prototype.reset = function()
     }
     // assign the result of the row search and the initial position of the enemy based on that
     this.row = newRow;
-    this.x = -101;
+    this.x = -101; // this will put the enemy just off to the left of the screen
     this.y = this.row * 83 - 25;
     // randomly generate a speed in tiles/second, between the constants min/max enemy speed
     this.speed = Math.random() * (MAX_ENEMY_SPEED - MIN_ENEMY_SPEED) + MIN_ENEMY_SPEED;
